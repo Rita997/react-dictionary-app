@@ -29,7 +29,7 @@ export default function App() {
             </a>{" "}
             and is{" "}
             <a
-              href=""
+              href="https://github.com/Rita997/react-dictionary-app"
               target="_blank"
               rel="noreferrer"
             >
