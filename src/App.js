@@ -21,7 +21,7 @@ export default function App() {
           <small>
             This project is coded by{" "}
             <a
-              href=""
+              href="https://631af19afffa570353998c17--frabjous-alfajores-f0472a.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
